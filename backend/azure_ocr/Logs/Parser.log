@@ -1,0 +1,826 @@
+12/06/2023 10:15:24 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+12/06/2023 10:15:24 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686588324.8240614
+12/06/2023 10:15:24 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+12/06/2023 10:26:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+12/06/2023 10:26:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686588965.2261631
+12/06/2023 10:26:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+12/06/2023 10:26:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+12/06/2023 10:26:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+12/06/2023 10:26:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+12/06/2023 10:26:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+12/06/2023 10:26:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.919147 
+12/06/2023 10:27:49 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+12/06/2023 10:27:49 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686589069.9908032
+12/06/2023 10:27:49 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:17:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:17:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686635236.3429184
+13/06/2023 11:17:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:20:32 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:20:32 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686635432.98016
+13/06/2023 11:20:32 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:24:10 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:24:10 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686635650.0112932
+13/06/2023 11:24:10 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:29:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:29:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686635956.1032712
+13/06/2023 11:29:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:33:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:33:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686636196.1021538
+13/06/2023 11:33:16 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:36:41 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:36:41 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686636401.4693031
+13/06/2023 11:36:41 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:47:12 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:47:12 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686637032.8875477
+13/06/2023 11:47:12 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:50:51 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:50:51 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686637251.0676677
+13/06/2023 11:50:51 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:54:31 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:54:31 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686637471.4826732
+13/06/2023 11:54:31 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:58:07 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:58:07 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686637687.8611941
+13/06/2023 11:58:07 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:58:24 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 11:58:24 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686637704.7952006
+13/06/2023 11:58:24 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 11:58:24 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 11:58:24 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 11:58:39 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 11:59:19 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 11:59:19 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 55.109693 
+13/06/2023 12:04:40 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:04:40 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686638080.170549
+13/06/2023 12:04:40 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:11:26 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:11:26 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686638486.7933452
+13/06/2023 12:11:26 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:17:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:17:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686638842.7077503
+13/06/2023 12:17:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:20:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:20:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686639011.4896994
+13/06/2023 12:20:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:20:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '38701441.pdf' ('application/pdf')>
+13/06/2023 12:20:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 12:20:27 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 12:21:48 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 12:21:48 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 147 ]  ERROR - Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 147, in format_final_response
+    elt = ast.literal_eval(value[column_name])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 62, in literal_eval
+    node_or_string = parse(node_or_string.lstrip(" \t"), mode='eval')
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 1
+    Serial Number: 1 Challan Identification Number: 2719101001602 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 2 Challan Identification Number: 2719101001603 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 3 Challan Identification Number: 2719101001604 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 4 Challan Identification Number: 2719101001605 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 5 Challan Identification Number: 2719101001606 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 6 Challan Identification Number: 2719101001607 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 7 Challan Identification Number: 2719101001608 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 8 Challan Identification Number: 2719101001609 BSR Code of the Bank Branch: 0271910 Date on which tax was deposited: 07/07/2019 Section under which payment was made: 194IA (a) TDS/TCS Book Entry /Cash: C Amount of tax deposited: 1,00,000 (in figures) 100000 (in words) Name of the Bank Branch: SBI, KALYAN (WEST) Date of transfer voucher / challan in to bank: 07/07/2019 (dd/mm/yyyy) Serial Number: 9 Challan Identification Number: 2719101001610
+                                                                                               ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\app.py", line 141, in entity_extraction
+    formatted_final_response = format_final_response(response, key_value_response)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 159, in format_final_response
+    table_rows[i][column_name] = "Not Found"
+    ~~~~~~~~~~^^^
+IndexError: list index out of range
+
+13/06/2023 12:23:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:23:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686639209.412263
+13/06/2023 12:23:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:23:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 12:23:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 12:23:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 12:24:24 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 12:24:24 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 55.112860 
+13/06/2023 12:30:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 12:30:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686639636.9518878
+13/06/2023 12:30:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 12:30:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 12:30:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 12:30:52 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 12:31:34 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 12:31:34 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 57.865462 
+13/06/2023 02:26:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 02:26:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686646583.2846477
+13/06/2023 02:26:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 02:26:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 02:26:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 02:26:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 02:27:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 02:27:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 54.957296 
+13/06/2023 02:58:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 02:58:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686648505.365371
+13/06/2023 02:58:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 02:58:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 02:58:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 02:58:40 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 03:03:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 03:03:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686648816.174641
+13/06/2023 03:03:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 03:03:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 03:03:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 03:03:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 65.595753 
+13/06/2023 03:24:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 03:24:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686650048.765522
+13/06/2023 03:24:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 03:24:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 03:24:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 03:24:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 03:28:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 03:28:23 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 254.735893 
+13/06/2023 03:35:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 03:35:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686650728.605418
+13/06/2023 03:35:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 03:35:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 03:35:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 03:35:42 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 03:47:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 03:47:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686651445.22584
+13/06/2023 03:47:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 03:47:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 03:47:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 03:47:39 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 03:51:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 03:51:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 252.296142 
+13/06/2023 04:00:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 04:00:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686652251.0478258
+13/06/2023 04:00:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 04:00:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 04:00:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 04:01:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 04:27:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 04:27:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686653877.7118633
+13/06/2023 04:27:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 04:27:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 04:27:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 04:28:12 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 04:28:49 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 04:28:49 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 52.035065 
+13/06/2023 04:40:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 04:40:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686654617.051759
+13/06/2023 04:40:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 04:40:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 04:40:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 04:40:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 04:41:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 04:41:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 80.249380 
+13/06/2023 04:46:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 04:46:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686654998.3791845
+13/06/2023 04:46:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 04:46:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 04:46:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 04:46:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 04:50:42 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 04:50:42 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 244.153600 
+13/06/2023 05:01:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 05:01:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686655865.7864275
+13/06/2023 05:01:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 05:01:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 05:01:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 05:01:20 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 05:01:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 05:01:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 53.512923 
+13/06/2023 05:09:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 05:09:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686656386.2810864
+13/06/2023 05:09:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 05:09:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 05:09:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 05:10:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 05:14:10 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 05:14:10 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 263.953880 
+13/06/2023 05:48:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 05:48:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686658731.9615092
+13/06/2023 05:48:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 05:48:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 05:48:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 05:49:07 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 05:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 05:49:47 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 55.068911 
+13/06/2023 05:58:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 05:58:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686659323.8519604
+13/06/2023 05:58:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 05:58:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 05:58:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 05:58:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 05:59:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 05:59:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 52.842263 
+13/06/2023 06:03:30 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:03:30 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686659610.337971
+13/06/2023 06:03:30 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:03:30 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:03:30 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:03:47 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:12:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:12:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686660155.346501
+13/06/2023 06:12:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:12:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:12:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:12:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:22:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:22:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686660723.580432
+13/06/2023 06:22:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:22:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:22:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:22:21 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:22:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 06:22:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 56.264561 
+13/06/2023 06:31:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:31:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686661295.318941
+13/06/2023 06:31:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:31:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:31:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:31:50 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:39:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:39:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686661777.627697
+13/06/2023 06:39:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:39:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:39:37 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:39:54 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:40:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 06:40:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 58.043470 
+13/06/2023 06:46:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:46:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686662160.517182
+13/06/2023 06:46:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:46:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:46:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:46:17 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686662386.4525802
+13/06/2023 06:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: 'f16.pdf' ('application/pdf')>
+13/06/2023 06:49:46 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:50:03 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 06:50:42 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 06:50:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 56.573419 
+13/06/2023 06:56:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 147 ]  ERROR - Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+                       ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1374, in getresponse
+    response.begin()
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 516, in request_raw
+    result = _thread_context.session.request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\app.py", line 139, in entity_extraction
+    response, key_value_response  = final_response(doc_type,config,ocr_text)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 107, in final_response
+    "value" : get_response(value, ocr_text),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 77, in get_response
+    completion = openai.Completion.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+                           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 216, in request
+    result = self.request_raw(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 526, in request_raw
+    raise error.Timeout("Request timed out: {}".format(e)) from e
+openai.error.Timeout: Request timed out: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+13/06/2023 06:59:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 06:59:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686662981.3071864
+13/06/2023 06:59:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 06:59:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 06:59:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 06:59:59 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 07:00:13 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 07:00:13 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686663013.2393427
+13/06/2023 07:00:13 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 07:00:13 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 07:00:13 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 07:00:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 07:02:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 07:02:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686663156.6713846
+13/06/2023 07:02:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 07:02:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 07:02:36 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 07:02:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 07:03:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 07:03:29 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 52.855540 
+13/06/2023 07:06:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 07:06:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 381.899936 
+13/06/2023 07:10:16 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 147 ]  ERROR - Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+                       ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1374, in getresponse
+    response.begin()
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 516, in request_raw
+    result = _thread_context.session.request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\app.py", line 139, in entity_extraction
+    response, key_value_response  = final_response(doc_type,config,ocr_text)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 117, in final_response
+    response[table_name][table_question["key"]] = get_response(table_question["question"], ocr_text)
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 77, in get_response
+    completion = openai.Completion.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+                           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 216, in request
+    result = self.request_raw(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 526, in request_raw
+    raise error.Timeout("Request timed out: {}".format(e)) from e
+openai.error.Timeout: Request timed out: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+13/06/2023 07:30:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 07:30:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686664851.0198298
+13/06/2023 07:30:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 07:30:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 07:30:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 07:31:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 07:33:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 07:33:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686664999.0490663
+13/06/2023 07:33:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 07:33:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 07:33:19 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 07:33:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 07:33:44 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 07:33:44 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 173.672514 
+13/06/2023 07:34:10 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 07:34:10 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.003820 
+13/06/2023 08:14:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 08:14:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686667458.118094
+13/06/2023 08:14:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 08:14:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 08:14:18 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 08:14:32 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 08:15:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 08:15:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 50.690021 
+13/06/2023 08:23:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 08:23:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686668037.8060267
+13/06/2023 08:23:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 08:23:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 08:23:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 08:24:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 08:24:48 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 08:24:48 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 50.276732 
+13/06/2023 08:31:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+13/06/2023 08:31:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686668513.3267026
+13/06/2023 08:31:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+13/06/2023 08:31:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+13/06/2023 08:31:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+13/06/2023 08:32:08 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+13/06/2023 08:32:44 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+13/06/2023 08:32:44 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.144069 
+14/06/2023 10:49:54 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 10:49:54 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686719994.509858
+14/06/2023 10:49:54 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 10:49:54 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 10:49:54 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 10:50:09 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 10:50:46 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 10:50:46 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.511034 
+14/06/2023 11:53:23 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 11:53:23 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686723803.0361457
+14/06/2023 11:53:23 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 11:53:23 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 11:53:23 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 11:53:39 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 11:55:28 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 11:55:28 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686723928.0370142
+14/06/2023 11:55:28 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 11:55:28 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 11:55:28 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 11:55:43 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 11:56:21 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 11:56:21 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 53.585809 
+14/06/2023 11:56:40 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 11:56:40 AM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 147 ]  ERROR - Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 155, in format_final_response
+    table_rows[row_index][column_name] = val
+    ~~~~~~~~~~^^^^^^^^^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\app.py", line 141, in entity_extraction
+    formatted_final_response = format_final_response(response, key_value_response)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 159, in format_final_response
+    table_rows[i][column_name] = "Not Found"
+    ~~~~~~~~~~^^^
+IndexError: list index out of range
+
+14/06/2023 02:10:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 02:10:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686732055.0590336
+14/06/2023 02:10:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 02:10:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 02:10:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 02:11:11 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 02:11:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 02:11:51 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 56.610562 
+14/06/2023 02:42:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 02:42:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686733958.0751505
+14/06/2023 02:42:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 02:42:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 02:42:38 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 02:42:53 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 02:43:31 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 02:43:31 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 53.158967 
+14/06/2023 02:50:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 02:50:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686734400.820983
+14/06/2023 02:50:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 02:50:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 02:50:00 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 02:50:16 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 02:50:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 02:50:55 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 54.434299 
+14/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686735281.072014
+14/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:04:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:04:56 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:07:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:07:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686735445.848886
+14/06/2023 03:07:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:07:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:07:25 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:07:41 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:08:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 03:08:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 234.506687 
+14/06/2023 03:11:02 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 03:11:02 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 217.061837 
+14/06/2023 03:16:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:16:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686735993.951889
+14/06/2023 03:16:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:16:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:16:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:16:50 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:18:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:18:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686736085.5361452
+14/06/2023 03:18:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:18:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:18:05 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:18:20 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:18:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 03:18:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.846570 
+14/06/2023 03:21:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:21:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686736303.616359
+14/06/2023 03:21:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:21:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:21:43 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:21:58 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:22:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 03:22:35 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 51.632118 
+14/06/2023 03:26:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 120 ]  INFO - Main module Initialized.
+14/06/2023 03:26:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 123 ]  INFO - 1686736588.670957
+14/06/2023 03:26:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 124 ]  INFO - Before Get_json
+14/06/2023 03:26:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+14/06/2023 03:26:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Form16
+14/06/2023 03:26:45 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 138 ]  INFO - After Get_ocr
+14/06/2023 03:26:57 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 147 ]  ERROR - Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+                       ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1374, in getresponse
+    response.begin()
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1278, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1134, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 516, in request_raw
+    result = _thread_context.session.request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\smartC\AllEnv\app\backend\app.py", line 139, in entity_extraction
+    response, key_value_response  = final_response(doc_type,config,ocr_text)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 107, in final_response
+    "value" : get_response(value, ocr_text),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\smartC\AllEnv\app\backend\azure_ocr\ocr_functions.py", line 77, in get_response
+    completion = openai.Completion.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+                           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 216, in request
+    result = self.request_raw(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\vishwakarma_sh\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\api_requestor.py", line 526, in request_raw
+    raise error.Timeout("Request timed out: {}".format(e)) from e
+openai.error.Timeout: Request timed out: HTTPSConnectionPool(host='cog-hjlr6xqlyqt54.openai.azure.com', port=443): Read timed out. (read timeout=600)
+
+14/06/2023 03:27:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - After Response
+14/06/2023 03:27:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 142 ]  INFO - Total Time is : 54.004219 
+16/06/2023 05:33:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:33:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686893634.880641
+16/06/2023 05:33:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:33:55 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:33:55 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:34:07 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:34:10 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:34:10 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 15.690470 
+16/06/2023 05:38:35 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:38:35 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686893915.3125153
+16/06/2023 05:38:35 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:38:36 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:38:36 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:38:47 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:39:52 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:39:52 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 77.048522 
+16/06/2023 05:45:25 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:45:25 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686894325.8335466
+16/06/2023 05:45:25 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:45:26 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:45:26 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:45:48 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:46:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:46:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 88.207502 
+16/06/2023 05:47:23 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:47:23 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686894443.5470443
+16/06/2023 05:47:23 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:47:24 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:47:24 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:47:35 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:47:38 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:47:38 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 15.259532 
+16/06/2023 05:48:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:48:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686894524.5739658
+16/06/2023 05:48:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:48:45 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:48:45 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:48:56 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:48:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:48:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 14.852535 
+16/06/2023 05:49:24 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:49:24 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686894564.604301
+16/06/2023 05:49:24 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:49:25 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:49:25 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:49:37 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:50:42 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:50:42 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 78.026216 
+16/06/2023 05:58:14 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 05:58:14 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686895094.4937
+16/06/2023 05:58:14 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 05:58:15 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 05:58:15 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 05:58:26 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 05:58:36 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 05:58:36 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 22.434070 
+16/06/2023 06:00:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 06:00:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686895244.061174
+16/06/2023 06:00:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 06:00:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 06:00:44 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 06:00:56 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 06:00:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 06:00:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 15.446555 
+16/06/2023 06:03:11 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 06:03:11 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686895391.8150287
+16/06/2023 06:03:11 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 06:03:12 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 06:03:12 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 06:03:23 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 06:03:34 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 06:03:34 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 22.449008 
+16/06/2023 06:04:03 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 06:04:03 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686895443.2479568
+16/06/2023 06:04:03 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 06:04:03 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 06:04:03 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 06:04:15 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 06:04:26 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 06:04:26 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 23.676498 
+16/06/2023 06:31:18 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 06:31:18 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686897078.8316586
+16/06/2023 06:31:18 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 06:31:19 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 06:31:19 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 06:31:30 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 06:31:43 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 06:31:43 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 24.809474 
+16/06/2023 06:52:58 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 06:52:58 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686898378.296466
+16/06/2023 06:52:58 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 06:52:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 06:52:59 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 06:53:10 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 06:53:30 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 06:53:30 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 31.953102 
+16/06/2023 07:00:53 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 120 ]  INFO - Main module Initialized.
+16/06/2023 07:00:53 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 123 ]  INFO - 1686898853.2565389
+16/06/2023 07:00:53 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 124 ]  INFO - Before Get_json
+16/06/2023 07:00:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 129 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+16/06/2023 07:00:54 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 136 ]  INFO - Form16
+16/06/2023 07:01:05 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 138 ]  INFO - After Get_ocr
+16/06/2023 07:01:15 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 140 ]  INFO - After Response
+16/06/2023 07:01:15 AM  [/datadrive/SmartCapture_ChatGPT/app/backend/./app.py                                  : 142 ]  INFO - Total Time is : 22.207027 
+28/06/2023 06:42:01 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Main module Initialized.
+28/06/2023 06:42:01 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 139 ]  INFO - 1687957921.3272233
+28/06/2023 06:42:01 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - Before Get_json
+28/06/2023 06:42:01 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 145 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+28/06/2023 06:42:01 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 152 ]  INFO - Form16
+28/06/2023 06:42:16 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 154 ]  INFO - After Get_ocr
+28/06/2023 06:42:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 157 ]  INFO - After Response
+28/06/2023 06:42:28 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 160 ]  INFO - Total Time is : 26.818542 
+29/06/2023 04:52:06 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 136 ]  INFO - Main module Initialized.
+29/06/2023 04:52:06 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 139 ]  INFO - 1688037726.8179822
+29/06/2023 04:52:06 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 140 ]  INFO - Before Get_json
+29/06/2023 04:52:06 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 145 ]  INFO - <FileStorage: '16.1.pdf' ('application/pdf')>
+29/06/2023 04:52:06 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 152 ]  INFO - Form16
+29/06/2023 04:52:22 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 154 ]  INFO - After Get_ocr
+29/06/2023 04:52:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 157 ]  INFO - After Response
+29/06/2023 04:52:33 PM  [D:\smartC\AllEnv\app\backend\app.py                                                   : 160 ]  INFO - Total Time is : 27.139753 
